@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: The Blonde Coder
 header-img: img/home-bg.png
 email: megan.dotto@gmail.com
 copyright_name: megdot
 description: > # this means to ignore newlines until "baseurl:"
-  
+  My Journey from Corporate America into Coding
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  megdot
